@@ -24,8 +24,6 @@ Evaluated on the held-out ISIC 2018 validation set (100 images never seen during
 > A Dice score of 0.872 means the predicted lesion boundary overlaps 87% of
 > the true lesion region on average. These results are comparable to published results.
 
-![Prediction Grid](results/figures/sample_prediction1.png)
-
 ## Model Development
 
 **Model Type:** Convolutional Neural Network
